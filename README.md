@@ -1,6 +1,6 @@
 # 7th House Ruler Calculator
 
-[houserunler.com](https://houseruler.com)
+[houseruler.com](https://houseruler.com)
 A modern web application that helps users discover and understand their astrological 7th house ruler. The application provides an intuitive interface for users to input their birth details and receive personalized interpretations of their 7th house ruler's influence on relationships and partnerships.
 
 ## Features
